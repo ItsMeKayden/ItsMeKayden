@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsMeKayden
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript and MysSQL
+- 🌱 I’m currently learning JavaScript and MongoDB
 - 💞️ I’m looking to collaborate on other programmers
 - 📫 How to reach me just dm me
 
